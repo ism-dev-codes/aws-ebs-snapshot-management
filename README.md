@@ -118,7 +118,7 @@ Para replicar os procedimentos de gerenciamento e backup do Amazon EBS, siga as 
 
 > **📹 Demonstração em Vídeo:** Assista ao passo a passo completo da execução do laboratório acelerado no YouTube:
 
-[![Assistir Demonstração no YouTube](https://img.shields.io/badge/▶️_Assistir_Demonstração_Completa-YouTube-red?style=for-the-badge&logo=youtube)]((https://youtu.be/G5l6nP1xcrE))
+[![Assistir Demonstração no YouTube](https://img.shields.io/badge/▶️_Assistir_Demonstração_Completa-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/G5l6nP1xcrE)
 
 ---
 
